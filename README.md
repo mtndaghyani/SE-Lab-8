@@ -2,11 +2,14 @@
 
 سناریو اول:
 
+![image](https://github.com/mtndaghyani/SE-Lab-8/assets/59438691/39605088-9c66-4226-868f-9df13c04da9c)
+
 
 ![8](https://github.com/mtndaghyani/SE-Lab-8/assets/63471751/84acd0da-c89b-43ae-a773-3eb7089c2001)
 
 ![10](https://github.com/mtndaghyani/SE-Lab-8/assets/63471751/cf44f003-a67f-4635-80c6-b58c3d51ef73)
 
+![image](https://github.com/mtndaghyani/SE-Lab-8/assets/59438691/8e1e4db3-b284-49f1-a6fa-54b362b83542)
 
 
 سناریو دوم:
