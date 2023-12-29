@@ -8,6 +8,7 @@
 ![10](https://github.com/mtndaghyani/SE-Lab-8/assets/63471751/cf44f003-a67f-4635-80c6-b58c3d51ef73)
 
 
+
 سناریو دوم:
 روش غیر بهینه:
 
