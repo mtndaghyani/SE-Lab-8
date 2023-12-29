@@ -12,6 +12,16 @@
 ![image](https://github.com/mtndaghyani/SE-Lab-8/assets/59438691/8e1e4db3-b284-49f1-a6fa-54b362b83542)
 
 
+بهبود فایل JavaCup:
+![image](https://github.com/mtndaghyani/SE-Lab-8/assets/59438691/c2556f91-8a3f-481e-a4dd-cbd6994beca9)
+![image](https://github.com/mtndaghyani/SE-Lab-8/assets/59438691/cd1af8bc-a6fa-41cb-b93f-756f0aa03b49)
+![image](https://github.com/mtndaghyani/SE-Lab-8/assets/59438691/2e4b3c08-637d-413b-a51b-6b801d469b43)
+![image](https://github.com/mtndaghyani/SE-Lab-8/assets/59438691/ddaad4da-c2d7-418d-879b-4db0a91dbfe5)
+
+
+
+
+
 سناریو دوم:
 روش غیر بهینه:
 
